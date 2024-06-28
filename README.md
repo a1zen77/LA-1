@@ -1,4 +1,4 @@
-# LAB-2
+# LAB-1
 
 Read prob_statement.pdf for the idea behind this project.
 
